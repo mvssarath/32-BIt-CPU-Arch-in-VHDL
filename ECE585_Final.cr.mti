@@ -1,0 +1,116 @@
+C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/cache.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/cache.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity cache
+-- Compiling architecture behavior_cache of cache
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/ALU.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/ALU.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Compiling entity alu
+-- Compiling architecture behavior_alu of alu
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/PC.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/PC.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity pc
+-- Compiling architecture behavior_pc of pc
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/IR.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/IR.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity ir
+-- Compiling architecture behavior_ir of ir
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX1.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX1.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity mux1
+-- Compiling architecture behavior_mux1 of mux1
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MDR.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MDR.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity mdr
+-- Compiling architecture behavior_mdr of mdr
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd {2 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity ctrlunit
+-- Compiling architecture behavior_ctrlunit of ctrlunit
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(73): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(74): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(75): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(76): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [14] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(165): Length of expected is 32; length of actual is 48.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(183): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(184): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(185): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(186): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(204): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(205): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(206): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd(207): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd {0 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity cpu
+-- Compiling architecture behavior_cpu of cpu
+** Error: C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd(42): near "component": expecting: END
+** Error: C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd(78): near "EOF": expecting: END
+
+} {9.0 11.0} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/RF.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/RF.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity rf
+-- Compiling architecture behavior_rf of rf
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_A.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_A.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity muxa
+-- Compiling architecture behavior_muxa of muxa
+
+} {} {}} C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_B.vhd {1 {vcom -work work -2002 -explicit -vopt C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_B.vhd
+Model Technology ModelSim SE vcom 6.2g Compiler 2007.02 Feb 21 2007
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity muxb
+-- Compiling architecture behavior_muxb of muxb
+
+} {} {}}

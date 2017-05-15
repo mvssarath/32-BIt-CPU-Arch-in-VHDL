@@ -1,0 +1,16 @@
+-- Register file
+Library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+entity RF is
+    port(regA: in std_logic_vector(4 DOWNTO 0);
+         regB: in std_logic_vector(4 DOWNTO 0);
+         datain: in std_logic_vector(31 DOWNTO 0);
+         dataA: out std_logic_vector(31 DOWNTO 0);
+         dataB: out std_logic_vector(31 DOWNTO 0)
+          );
+end RF;
+
+ARCHITECTURE behavior_RF of RF is
+    begin
+        process 

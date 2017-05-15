@@ -1,0 +1,370 @@
+m255
+13
+cModel Technology
+dC:\ModelSim\Modeltech_6.2g\examples
+T_opt
+Vo3`:WS69eVHgEg>nS7Z=21
+06 2 11 ./work ir behavior_ir 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2g;35
+T_opt1
+V[KjXW1gDKBYN3VLMJ=QaJ1
+06 8 17 ./work ctrlunit behavior_ctrlunit 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2g;35
+T_opt2
+VVe:3]OAH3`:R<BQCAeJ1T3
+06 2 11 ./work pc behavior_pc 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2g;35
+Ealu
+w1334372781
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/ALU.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/ALU.vhd
+l0
+L8
+VYJ2HAE?k7kEZR`kI5E[cT1
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_alu
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work alu YJ2HAE?k7kEZR`kI5E[cT1
+l18
+L16
+V9313j93L01eAFMK_JoBfY2
+OE;C;6.2g;35
+32
+M4 ieee std_logic_1164
+M3 ieee std_logic_unsigned
+M2 ieee std_logic_arith
+M1 ieee numeric_std
+o-work work -2002 -explicit
+tExplicit 1
+Ecache
+w1334375243
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/cache.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/cache.vhd
+l0
+L7
+VInN@f==_^]ijS;Yz40jLh1
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_cache
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work cache InN@f==_^]ijS;Yz40jLh1
+l27
+L22
+V6:JlXd7gd2Jk9mWI00Ve]0
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Ecpu
+w1334371202
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/CPU.vhd
+l0
+L5
+VTLdi]W0<n[@Ji<;zQSY^T2
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Ectrlunit
+w1334375854
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Ctrl_Unit.vhd
+l0
+L5
+VCDfj2VXS_:R7eoVH1mmZh2
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_ctrlunit
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work ctrlunit CDfj2VXS_:R7eoVH1mmZh2
+l36
+L34
+V9HM0jCmY@9BiEP1?hCjIY0
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Eir
+w1334371088
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/IR.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/IR.vhd
+l0
+L7
+V8IcTAofMF<9>BnKHeg0zk3
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_ir
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work ir 8IcTAofMF<9>BnKHeg0zk3
+l15
+L13
+Vf;Ab6;CjjaH``An8gA`N12
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Emdr
+w1334296989
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MDR.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MDR.vhd
+l0
+L6
+VjMkL1in0ldo@^l1C_W;;M0
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_mdr
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mdr jMkL1in0ldo@^l1C_W;;M0
+l15
+L13
+Vk5OeX59coKd:<z21ibMkk2
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Emem
+w1334377355
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Mem.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/Mem.vhd
+l0
+L7
+V>^XULSK;W:AzCXe?:H3nE2
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_mem
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mem >^XULSK;W:AzCXe?:H3nE2
+l24
+L21
+V5I>I]_4[j;aRg_C8Z3cfd2
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Emux1
+w1334296991
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX1.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX1.vhd
+l0
+L5
+VYDjMT`fOZD3_F09]:UZVU1
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_mux1
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work mux1 YDjMT`fOZD3_F09]:UZVU1
+l13
+L12
+V8emHzUgD4LD2<5ad[Gm^A2
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Emuxa
+w1334331233
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_A.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_A.vhd
+l0
+L5
+VWQ9d<hof?`a9dee5=;aTS3
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_muxa
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work muxa WQ9d<hof?`a9dee5=;aTS3
+l13
+L12
+VP@[nbkP]ciEo]02f5OVgl1
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Emuxb
+w1334328961
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_B.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/MUX_B.vhd
+l0
+L6
+V==1DJbYBiJ_:Ug8hVE5>f1
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_muxb
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work muxb ==1DJbYBiJ_:Ug8hVE5>f1
+l14
+L13
+VJ^ZCMQ]oH4VM]IZVf48:00
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Epc
+w1334375977
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/PC.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/PC.vhd
+l0
+L5
+V?HN0XWb<HP7;zcT2cN:`f2
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_pc
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work pc ?HN0XWb<HP7;zcT2cN:`f2
+l12
+L11
+VV5[?8^X<^n:Y=;Ble4X9_2
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1
+Erf
+w1334194728
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dC:\Users\Ninja-Poppey\Desktop\ECE585_Final_Project
+8C:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/RF.vhd
+FC:/Users/Ninja-Poppey/Desktop/ECE585_Final_Project/RF.vhd
+l0
+L5
+VSO<foUS7NmBekScC9[idD0
+OE;C;6.2g;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Abehavior_rf
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work rf SO<foUS7NmBekScC9[idD0
+l16
+L15
+VM8OHUaamfgDg?M1ndaG<C3
+OE;C;6.2g;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-work work -2002 -explicit
+tExplicit 1

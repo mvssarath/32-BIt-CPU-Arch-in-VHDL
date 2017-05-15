@@ -1,0 +1,6 @@
+H 2141964 11 3 0 1 1 0 0 0 0
+L 4 ieee 19 $MODEL_TECH/../ieee
+L 3 std 18 $MODEL_TECH/../std
+L 4 work 6 ./work
+D 34 ./work.ctrlunit(behavior_ctrlunit) S8E27EC6zaM7[_[zX;3Sf0 0 1
+2 0  0 =MRLE9AV0b^Rzb67HS5D03 0 0 1
